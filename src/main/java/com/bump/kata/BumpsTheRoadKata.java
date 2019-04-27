@@ -1,3 +1,5 @@
+package com.bump.kata;
+
 /***
  * https://www.codewars.com/kata/bumps-in-the-road
  * @author Paul Mcloughlin
